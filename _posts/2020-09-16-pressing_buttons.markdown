@@ -1,0 +1,14 @@
+---
+layout: post
+title:      "Pressing Buttons"
+date:       2020-09-16 22:17:48 +0000
+permalink:  pressing_buttons
+---
+
+Since I was young, I’ve always loved to press buttons. If there was an idle keyboard at a store, you can bet I was trying to sneak over and press a button on it. I loved computer classes in school; practicing typing, learning the Microsoft Office applications, I took an interest in it. I didn’t get a taste of coding until I went to college. My major was Management Information Systems and starting with an Intro to Java I didn’t really get into it. It could have been the 8:00am class, but nothing was really sticking with me. I later had to take a database class where we got into MySQL and this peaked my interest more. Maybe it was the organizational aspect of building tables and configuring table relationships that I could visualize more. 
+
+For one of my major elective courses I chose to take Web Development. For this we used ASP.NET in Visual Studios. When I arrived here, I was able to put it all together better and technically visualize what I was trying to build in code. I loved building the structures and designing the properties. It is so satisfying to come up with an idea for something, figure out how to implement it with code, and getting it to actually work. It really is an avenue to build something with your hands from scratch. 
+
+After college I didn’t know what direction I wanted to take, but wanted to get IT experience. I took a job as an IT rotational associate at Harley-Davidson and did 3 8-month rotations in different teams of the IT department. I started in the SAP space, moved to the Employee Productivity Team, and lastly in the Dealer segment. I spent most of my time as a Business Analyst as well as spending time on Learning resources. With access to Degreed I was able to browse many different topics to learn and found myself gravitating towards coding content like HTML, CSS, and JavaScript. After my last rotation I accepted a job as an IT Design Analyst on the IT Services team because I want to get experience in something that has the potential of veering off more technical than business. 
+
+After 2 years into my IT Design Analyst role, I haven’t done too much technical work and still find myself wanting to learn how to code. I decided to learn Software Engineering because technology is an integral asset to every industry. It enables quicker business decisions by having critical data structured logically. Software Engineering is something that combines structure with creativeness and you discover ways to work smarter not harder. It is also a way to interact with people on a detailed level to build solutions fit for need and use requiring total understanding of what is trying to be accomplished. I’m excited to build my technical and soft skills as a Software Engineer and enjoy pressing all the buttons while I do it. 
