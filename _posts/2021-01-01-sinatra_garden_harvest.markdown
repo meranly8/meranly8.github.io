@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Sinatra Garden Harvest"
-date:       2021-01-01 23:01:25 +0000
+date:       2021-01-01 18:01:26 -0500
 permalink:  sinatra_garden_harvest
 ---
 
@@ -38,7 +38,7 @@ After spending time googling the error I wasn’t grasping anything I thought wa
     set :public_folder, 'public'
     set :views, 'app/views'
     enable :sessions
-    enable :session_secret, "discover_weekly"
+    enable :session_secret, "sesh_pword"
   end
 ```
  
