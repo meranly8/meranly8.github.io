@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "The End of the Beginning"
-date:       2021-07-05 19:46:54 +0000
+date:       2021-07-05 15:46:54 -0400
 permalink:  the_end_of_the_beginning
 ---
 
@@ -36,7 +36,7 @@ Since Montana, all trips have been planned around after finishing Flatiron. In 3
 
 1. **Ruby CLI - Spanish Speaking Countries:** study facts of countries that speak Spanish and quiz yourself on the country's capitals
 2. **Sinatra - Garden Harvest:** track crops grown in your garden
-3. **Rails - Moodie Foodie:** log into your account to track what your ate that day, your mood at the end of the day, and see what others are eating
+3. **Rails - Moody Foodie:** log into your account to track what your ate that day, your mood at the end of the day, and see what others are eating
 4. **JavaScript - Murcar Cellar:** track your inventory of wines and make comments on them
 5. **React Redux - Krafty Krab:** track your craft ideas, works in progress, inventory, and items sold
 
